@@ -7,8 +7,8 @@ Who doing?
 2. YT -- Delete all ads in videos without any spot, delete annoy side panel ads and more other.
    YT -- Main page now show maximum videos as possible, not only 4 but 8-16 is possible in any line.
 
-How to use?
-1. copy and paste to browser console and press enter
+How to use? Choice one.
+1. Copy and paste to browser console and press enter
 2. Download extension for your browser, tampermonkey and use this code as new script. Dont forget activate.
 3. Close and open new tab for YT --  FB work automatic
 
