@@ -11,6 +11,6 @@ Who doing?
 How to use? Choice one.
 1. Copy and paste to browser console and press enter
 2. Download extension for your browser, tampermonkey and use this code as new script. Dont forget activate.
-3. Close and open new tab for YT --  FB work automatic
+ + Close and open new tab for YT --  FB work automatic
 
 This script is intended primarily for my Czech and Slovak friends, but I give you information in English too.
